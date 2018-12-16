@@ -25,7 +25,7 @@
 
 原图：
 
-![cmd-markdown-logo](./pic/5.png)
+![cmd-markdown-logo](./pic/5.jpg)
 
 --- 
 
