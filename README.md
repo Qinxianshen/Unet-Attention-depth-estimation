@@ -12,6 +12,20 @@
 ![cmd-markdown-logo](./pic/2.png)
 
 
+1400遍表现：
+
+![cmd-markdown-logo](./pic/4.png)
+
+# -net
+10000遍表现：
+
+![cmd-markdown-logo](./pic/3.png)
+
+![cmd-markdown-logo](./pic/6.png)
+
+原图：
+
+![cmd-markdown-logo](./pic/5.png)
 
 --- 
 
