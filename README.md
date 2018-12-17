@@ -21,11 +21,29 @@
 
 ![cmd-markdown-logo](./pic/3.png)
 
-![cmd-markdown-logo](./pic/6.png)
+![cmd-markdown-logo](./pic/5.png)
 
 原图：
 
 ![cmd-markdown-logo](./pic/5.jpg)
+
+
+
+# 拓展阅读
+
+### 双目融合问题
+
+![cmd-markdown-logo](./pic/6.jpg)
+
+### 对极几何
+
+![cmd-markdown-logo](./pic/7.jpg)
+
+![cmd-markdown-logo](./pic/8.jpg)
+
+### 双目重构
+
+![cmd-markdown-logo](./pic/9.jpg)
 
 --- 
 
