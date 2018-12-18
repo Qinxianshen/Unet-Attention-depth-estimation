@@ -16,6 +16,10 @@
 
 ![cmd-markdown-logo](./pic/4.png)
 
+10000遍表现：
+
+![cmd-markdown-logo](./pic/10.png)
+
 # -net
 10000遍表现：
 
