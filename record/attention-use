@@ -1,0 +1,174 @@
+('Val_loss:', 3.0688043131547817)
+('Epoch:', 1, 'train_loss:', 3.0868588966481827, 'val_loss:', 2.9587327802882477, 'time:', 23.693, 's')
+Model_saved
+('Epoch:', 2, 'train_loss:', 2.928824312546674, 'val_loss:', 2.9561284079271206, 'time:', 23.967, 's')
+Model_saved
+('Epoch:', 3, 'train_loss:', 2.8860880487105427, 'val_loss:', 2.9052332289078655, 'time:', 24.553, 's')
+Model_saved
+('Epoch:', 4, 'train_loss:', 2.8569242253023037, 'val_loss:', 2.891206643160652, 'time:', 23.529, 's')
+Model_saved
+('Epoch:', 5, 'train_loss:', 2.841630045105429, 'val_loss:', 2.85379263232736, 'time:', 23.506, 's')
+Model_saved
+('Epoch:', 6, 'train_loss:', 2.825118569766774, 'val_loss:', 2.846918779260972, 'time:', 23.508, 's')
+Model_saved
+('Epoch:', 7, 'train_loss:', 2.807477586409625, 'val_loss:', 2.8309491241679474, 'time:', 23.777, 's')
+Model_saved
+('Epoch:', 8, 'train_loss:', 2.7909765664268944, 'val_loss:', 2.8200641239390656, 'time:', 25.077, 's')
+Model_saved
+('Epoch:', 9, 'train_loss:', 2.778627879479352, 'val_loss:', 2.8066484647638656, 'time:', 24.726, 's')
+Model_saved
+('Epoch:', 10, 'train_loss:', 2.7672639594358555, 'val_loss:', 2.782317105461569, 'time:', 24.443, 's')
+Model_saved
+('Epoch:', 11, 'train_loss:', 2.757796848521513, 'val_loss:', 2.771606452324811, 'time:', 24.211, 's')
+Model_saved
+('Epoch:', 12, 'train_loss:', 2.7495930475347183, 'val_loss:', 2.76287475754233, 'time:', 24.791, 's')
+Model_saved
+('Epoch:', 13, 'train_loss:', 2.7377035126966587, 'val_loss:', 2.768171513781828, 'time:', 24.123, 's')
+('Epoch:', 14, 'train_loss:', 2.7301947229048786, 'val_loss:', 2.7618560791015625, 'time:', 23.546, 's')
+Model_saved
+('Epoch:', 15, 'train_loss:', 2.720869611291324, 'val_loss:', 2.7320269416360294, 'time:', 23.712, 's')
+Model_saved
+('Epoch:', 16, 'train_loss:', 2.7174029911265656, 'val_loss:', 2.7215006702086506, 'time:', 23.599, 's')
+Model_saved
+('Epoch:', 17, 'train_loss:', 2.7075081502690033, 'val_loss:', 2.7294258860980762, 'time:', 23.533, 's')
+('Epoch:', 18, 'train_loss:', 2.699302827610689, 'val_loss:', 2.7232148436939014, 'time:', 23.759, 's')
+('Epoch:', 19, 'train_loss:', 2.6888214489992928, 'val_loss:', 2.7049757101956535, 'time:', 23.649, 's')
+Model_saved
+('Epoch:', 20, 'train_loss:', 2.679676287314471, 'val_loss:', 2.692278693704044, 'time:', 23.628, 's')
+Model_saved
+('Epoch:', 21, 'train_loss:', 2.6781864516875324, 'val_loss:', 2.70503562338212, 'time:', 23.626, 's')
+('Epoch:', 22, 'train_loss:', 2.666827489348019, 'val_loss:', 2.6888142403434303, 'time:', 23.558, 's')
+Model_saved
+('Epoch:', 23, 'train_loss:', 2.662505773937001, 'val_loss:', 2.682584986967199, 'time:', 23.577, 's')
+Model_saved
+('Epoch:', 24, 'train_loss:', 2.655543523676255, 'val_loss:', 2.6752246618270874, 'time:', 24.055, 's')
+Model_saved
+('Epoch:', 25, 'train_loss:', 2.648579015451319, 'val_loss:', 2.6587147432215072, 'time:', 24.048, 's')
+Model_saved
+('Epoch:', 26, 'train_loss:', 2.6424813200445736, 'val_loss:', 2.6593145693049713, 'time:', 23.537, 's')
+('Epoch:', 27, 'train_loss:', 2.6352723977145027, 'val_loss:', 2.63587066005258, 'time:', 23.691, 's')
+Model_saved
+('Epoch:', 28, 'train_loss:', 2.628359415951897, 'val_loss:', 2.6361164976568783, 'time:', 23.655, 's')
+('Epoch:', 29, 'train_loss:', 2.6191084455041325, 'val_loss:', 2.6235328281626984, 'time:', 23.656, 's')
+Model_saved
+('Epoch:', 30, 'train_loss:', 2.616596551502452, 'val_loss:', 2.6241441404118255, 'time:', 23.69, 's')
+('Epoch:', 31, 'train_loss:', 2.5979525271584007, 'val_loss:', 2.6081020621692432, 'time:', 23.568, 's')
+Model_saved
+('Epoch:', 32, 'train_loss:', 2.5917162334217743, 'val_loss:', 2.604326199082767, 'time:', 23.74, 's')
+Model_saved
+('Epoch:', 33, 'train_loss:', 2.584163588636062, 'val_loss:', 2.5941872666863834, 'time:', 23.582, 's')
+Model_saved
+('Epoch:', 34, 'train_loss:', 2.586360181079191, 'val_loss:', 2.597621938761543, 'time:', 23.622, 's')
+('Epoch:', 35, 'train_loss:', 2.579631945666145, 'val_loss:', 2.5907741995418774, 'time:', 23.577, 's')
+Model_saved
+('Epoch:', 36, 'train_loss:', 2.5781139485976277, 'val_loss:', 2.5959792137145996, 'time:', 23.671, 's')
+('Epoch:', 37, 'train_loss:', 2.5711014481151806, 'val_loss:', 2.5793517267002777, 'time:', 23.7, 's')
+Model_saved
+('Epoch:', 38, 'train_loss:', 2.5696887549232033, 'val_loss:', 2.578454347217784, 'time:', 23.683, 's')
+Model_saved
+('Epoch:', 39, 'train_loss:', 2.5651291538687313, 'val_loss:', 2.576649778029498, 'time:', 23.608, 's')
+Model_saved
+('Epoch:', 40, 'train_loss:', 2.561848991057452, 'val_loss:', 2.579490864978117, 'time:', 23.705, 's')
+('Epoch:', 41, 'train_loss:', 2.5566520971410416, 'val_loss:', 2.5580832607605877, 'time:', 23.702, 's')
+Model_saved
+('Epoch:', 42, 'train_loss:', 2.548034163082347, 'val_loss:', 2.5552620817633236, 'time:', 23.608, 's')
+Model_saved
+('Epoch:', 43, 'train_loss:', 2.548727512359619, 'val_loss:', 2.5517244268866146, 'time:', 23.886, 's')
+Model_saved
+('Epoch:', 44, 'train_loss:', 2.5439726254519295, 'val_loss:', 2.5509730296976425, 'time:', 23.573, 's')
+Model_saved
+('Epoch:', 45, 'train_loss:', 2.546936680288876, 'val_loss:', 2.548040228731492, 'time:', 24.369, 's')
+Model_saved
+('Epoch:', 46, 'train_loss:', 2.540592544219073, 'val_loss:', 2.5458886833751904, 'time:', 23.604, 's')
+Model_saved
+('Epoch:', 47, 'train_loss:', 2.5353211515090046, 'val_loss:', 2.550217628479004, 'time:', 23.568, 's')
+('Epoch:', 48, 'train_loss:', 2.5403755412382236, 'val_loss:', 2.5405556033639347, 'time:', 23.567, 's')
+Model_saved
+('Epoch:', 49, 'train_loss:', 2.540045233333812, 'val_loss:', 2.540417615105124, 'time:', 23.644, 's')
+Model_saved
+('Epoch:', 50, 'train_loss:', 2.532416960772346, 'val_loss:', 2.5391890161177693, 'time:', 23.729, 's')
+Model_saved
+('Epoch:', 51, 'train_loss:', 2.5292729279574226, 'val_loss:', 2.536819009219899, 'time:', 23.682, 's')
+Model_saved
+('Epoch:', 52, 'train_loss:', 2.530011576764724, 'val_loss:', 2.5326955248327816, 'time:', 23.605, 's')
+Model_saved
+('Epoch:', 53, 'train_loss:', 2.526305977035971, 'val_loss:', 2.5325446619706997, 'time:', 23.505, 's')
+Model_saved
+('Epoch:', 54, 'train_loss:', 2.5254409663817463, 'val_loss:', 2.531087040901184, 'time:', 23.616, 's')
+Model_saved
+('Epoch:', 55, 'train_loss:', 2.522458118550918, 'val_loss:', 2.530646057689891, 'time:', 23.567, 's')
+Model_saved
+('Epoch:', 56, 'train_loss:', 2.5219156181111053, 'val_loss:', 2.5288505413952995, 'time:', 23.605, 's')
+Model_saved
+('Epoch:', 57, 'train_loss:', 2.5178968415540806, 'val_loss:', 2.5220222332898308, 'time:', 23.71, 's')
+Model_saved
+('Epoch:', 58, 'train_loss:', 2.5176254931618187, 'val_loss:', 2.52072006113389, 'time:', 23.598, 's')
+Model_saved
+('Epoch:', 59, 'train_loss:', 2.5141447642270256, 'val_loss:', 2.522627963739283, 'time:', 23.696, 's')
+('Epoch:', 60, 'train_loss:', 2.5124850343255436, 'val_loss:', 2.5171464260886696, 'time:', 23.538, 's')
+Model_saved
+('Epoch:', 61, 'train_loss:', 2.5175372572506176, 'val_loss:', 2.5139710903167725, 'time:', 23.685, 's')
+Model_saved
+('Epoch:', 62, 'train_loss:', 2.509846848600051, 'val_loss:', 2.510354806395138, 'time:', 23.515, 's')
+Model_saved
+('Epoch:', 63, 'train_loss:', 2.5073455221512737, 'val_loss:', 2.51194734433118, 'time:', 23.645, 's')
+('Epoch:', 64, 'train_loss:', 2.509154474034029, 'val_loss:', 2.509507480789633, 'time:', 23.759, 's')
+Model_saved
+('Epoch:', 65, 'train_loss:', 2.507634485469145, 'val_loss:', 2.512614741044886, 'time:', 23.638, 's')
+('Epoch:', 66, 'train_loss:', 2.5047218378852394, 'val_loss:', 2.5082103855469646, 'time:', 23.569, 's')
+Model_saved
+('Epoch:', 67, 'train_loss:', 2.5002887529485367, 'val_loss:', 2.507585238007938, 'time:', 23.798, 's')
+Model_saved
+('Epoch:', 68, 'train_loss:', 2.5024804087246166, 'val_loss:', 2.506133991129258, 'time:', 23.527, 's')
+Model_saved
+('Epoch:', 69, 'train_loss:', 2.498645922716926, 'val_loss:', 2.5028444318210377, 'time:', 23.516, 's')
+Model_saved
+('Epoch:', 70, 'train_loss:', 2.493948228218976, 'val_loss:', 2.4958989760454964, 'time:', 23.565, 's')
+Model_saved
+('Epoch:', 71, 'train_loss:', 2.493404640870936, 'val_loss:', 2.5000764341915356, 'time:', 23.7, 's')
+('Epoch:', 72, 'train_loss:', 2.4888068858314965, 'val_loss:', 2.4973740156959083, 'time:', 23.473, 's')
+('Epoch:', 73, 'train_loss:', 2.49210103820352, 'val_loss:', 2.498632115476272, 'time:', 23.512, 's')
+('Epoch:', 74, 'train_loss:', 2.4866723944159115, 'val_loss:', 2.4930028494666603, 'time:', 23.652, 's')
+Model_saved
+('Epoch:', 75, 'train_loss:', 2.4890917890212116, 'val_loss:', 2.493473347495584, 'time:', 23.625, 's')
+('Epoch:', 76, 'train_loss:', 2.4850155185250675, 'val_loss:', 2.4889267192167392, 'time:', 23.717, 's')
+Model_saved
+('Epoch:', 77, 'train_loss:', 2.4901426609824684, 'val_loss:', 2.489817458040574, 'time:', 23.442, 's')
+('Epoch:', 78, 'train_loss:', 2.482922547003802, 'val_loss:', 2.4897906008888695, 'time:', 23.543, 's')
+('Epoch:', 79, 'train_loss:', 2.478206248844371, 'val_loss:', 2.486184505855336, 'time:', 23.541, 's')
+Model_saved
+('Epoch:', 80, 'train_loss:', 2.483587475383983, 'val_loss:', 2.485045552253723, 'time:', 23.751, 's')
+Model_saved
+('Epoch:', 81, 'train_loss:', 2.4842883769203636, 'val_loss:', 2.4816746711730957, 'time:', 23.827, 's')
+Model_saved
+('Epoch:', 82, 'train_loss:', 2.4791236695121315, 'val_loss:', 2.4822877645492554, 'time:', 23.598, 's')
+('Epoch:', 83, 'train_loss:', 2.474811119191787, 'val_loss:', 2.4806178948458504, 'time:', 23.611, 's')
+Model_saved
+('Epoch:', 84, 'train_loss:', 2.4720622020609238, 'val_loss:', 2.476066196666044, 'time:', 23.453, 's')
+Model_saved
+('Epoch:', 85, 'train_loss:', 2.4679111312417423, 'val_loss:', 2.4784869095858406, 'time:', 23.402, 's')
+('Epoch:', 86, 'train_loss:', 2.4712823699502384, 'val_loss:', 2.4758030316408943, 'time:', 23.717, 's')
+Model_saved
+('Epoch:', 87, 'train_loss:', 2.46753630918615, 'val_loss:', 2.4709470201941097, 'time:', 23.583, 's')
+Model_saved
+('Epoch:', 88, 'train_loss:', 2.466542026575874, 'val_loss:', 2.470339761060827, 'time:', 23.627, 's')
+Model_saved
+('Epoch:', 89, 'train_loss:', 2.4687669417437386, 'val_loss:', 2.4684323563295254, 'time:', 23.66, 's')
+Model_saved
+('Epoch:', 90, 'train_loss:', 2.4591905439601227, 'val_loss:', 2.4637833202586457, 'time:', 23.666, 's')
+Model_saved
+('Epoch:', 91, 'train_loss:', 2.465369028203628, 'val_loss:', 2.467843364266788, 'time:', 23.588, 's')
+('Epoch:', 92, 'train_loss:', 2.4609564823262833, 'val_loss:', 2.464944650145138, 'time:', 23.484, 's')
+('Epoch:', 93, 'train_loss:', 2.4611964225769043, 'val_loss:', 2.4661150890238144, 'time:', 23.629, 's')
+('Epoch:', 94, 'train_loss:', 2.4568077466067146, 'val_loss:', 2.4635929850970997, 'time:', 23.752, 's')
+Model_saved
+('Epoch:', 95, 'train_loss:', 2.4562134321998146, 'val_loss:', 2.4609055238611557, 'time:', 23.723, 's')
+Model_saved
+('Epoch:', 96, 'train_loss:', 2.4553187524571136, 'val_loss:', 2.458991331212661, 'time:', 23.716, 's')
+Model_saved
+('Epoch:', 97, 'train_loss:', 2.4535294210209564, 'val_loss:', 2.4633790885700897, 'time:', 23.502, 's')
+('Epoch:', 98, 'train_loss:', 2.449041626032661, 'val_loss:', 2.454272648867439, 'time:', 23.632, 's')
+Model_saved
+('Epoch:', 99, 'train_loss:', 2.4501200493644264, 'val_loss:', 2.4552676958196304, 'time:', 23.684, 's')
+('Epoch:', 100, 'train_loss:', 2.445640171275419, 'val_loss:', 2.448792766122257, 'time:', 23.646, 's')
+

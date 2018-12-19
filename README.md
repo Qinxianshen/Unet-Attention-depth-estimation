@@ -12,20 +12,49 @@
 ![cmd-markdown-logo](./pic/2.png)
 
 
-1400遍表现：
+1400 batch表现：
 
 ![cmd-markdown-logo](./pic/4.png)
 
-10000遍表现：
+10000 batch表现：
 
 ![cmd-markdown-logo](./pic/10.png)
 
 # -net
-10000遍表现：
+10000 batch表现：
 
 ![cmd-markdown-logo](./pic/3.png)
 
 ![cmd-markdown-logo](./pic/5.png)
+
+
+# Attention 
+
+## attention gate
+
+![cmd-markdown-logo](./pic/11.png)
+
+### unet no attention one time
+
+![cmd-markdown-logo](./pic/unet_last_test_output_noattion_1.png)
+
+### unet use attention one time  
+
+
+![cmd-markdown-logo](./pic/unet_last_test_output_useattion_1.png)
+
+100 time loss 都出现消失
+
+### unet no attention 100 time
+
+![cmd-markdown-logo](./pic/unet_last_test_output_noattion_100.png)
+
+### unet use attention 100 time
+
+![cmd-markdown-logo](./pic/unet_last_test_output_useattion_100.png)
+
+
+
 
 原图：
 
